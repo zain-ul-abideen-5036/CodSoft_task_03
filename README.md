@@ -9,6 +9,7 @@ A C++ console application to track student grades, calculate averages, and deter
 - Statistics: Calculates average grade and identifies highest/lowest grades.
 - Input Flexibility: Exit anytime by entering b when prompted for a name.
 - Summary Report: Displays all student data + metrics in a clean format.
+---
 
 ## Example:
    ```bash
